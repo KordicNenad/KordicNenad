@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Nenad Kordic and creator from Montenegro.</h2>
+<h2 align="left">Hi 👋! My name is Nenad Kordic and I am a creator from Montenegro.</h2>
 
 ###
 
