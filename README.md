@@ -54,16 +54,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.threads.net/@kordic_nenad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="threads logo"  />
   </a>
 </div>
 
 ###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KordicNenad/KordicNenad/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
